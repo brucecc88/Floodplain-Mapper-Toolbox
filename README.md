@@ -22,6 +22,8 @@ The analysis employed by the Floodplain Mapper Toolbox measures floodplain inund
 
 You can watch a video demonstration of the steps outlined in this guide at https://www.youtube.com/watch?v=doq8ITCVdSg.
 
+Tutorial data for the video is available for download at https://qcnr.usu.edu/files/uploads/belmont/Floodplain_Mapper_Toolbox_v1.2.zip.
+
 The Floodplain Mapper Toolbox requires licenses for both the Spatial Analyst and 3D Analyst extensions for ArcGIS. Before using the toolbox, make sure that both extensions have been activated by browsing to "Extensions" under the "Customize" menu (Figure 4).
 
 ![picture alt](https://github.com/brucecc88/Floodplain-Mapper-Toolbox/blob/master/User-guide%20Figures/Figure%204.png)
